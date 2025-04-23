@@ -1,0 +1,12 @@
+{
+    "Potion": "Restores 20 HP",
+    "Super Potion": "Restores 60 HP",
+    "Hyper Potion": "Restores 120 HP",
+    "Max Potion": "Fully restores HP",
+    "Full Heal": "Cures all status conditions",
+    "Revive": "Revives a fainted Pok\u00e9mon with half HP",
+    "Rare Candy": "Raises a Pok\u00e9mon's level by one",
+    "Antidote": "Cures poison",
+    "Paralyze Heal": "Cures paralysis",
+    "Elixir": "Restores all PP for one Pok\u00e9mon"
+}
